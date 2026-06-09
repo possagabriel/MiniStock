@@ -73,7 +73,7 @@ Senha:   emilyspass
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/ministock-mobile.git
+git clone https://github.com/possagabriel/MiniStock.git
 cd ministock-mobile
 
 # 2. Instale as dependências
